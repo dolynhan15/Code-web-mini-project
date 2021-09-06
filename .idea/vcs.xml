@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo SpringBoot_React 01_notyet/book-springboot-pp/book-rest-api/src/main/webapp/reactjs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo SpringBoot_React 01_notyet/book-springboot-pp/my_first_app/src/main/webapp/reactjs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo SpringBoot_React 03_DONE/NEW/ReactJS-Spring-Boot-CRUD-Full-Stack-App" vcs="Git" />
+  </component>
+</project>
